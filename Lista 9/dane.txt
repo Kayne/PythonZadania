@@ -1,0 +1,23 @@
+jako Jan Kowalski
+adno Ada Nowacka
+piad Piotr Adamski
+    
+# sekcja definiujaca zadania
+1 1.0
+2 1.0
+3 1.0
+4 3.0
+34 sd
+5 2.5
+6 1.0
+23 1.5
+zadanie_specjalne 7
+  
+# pracownia 1
+jako 1,2,3
+adno 3,4,5
+  
+# pracownia 2
+jako 5,7
+adno 23,zadanie_specjalne
+piad 1,2,4,6
